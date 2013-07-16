@@ -1,0 +1,43 @@
+/* CSS file for the admin panel of the Simple Events Calendar plugin */
+.expired, .nolabel {filter:alpha(opacity=40); opacity:0.4;} 
+.expired .nolabel {filter:alpha(opacity=100); opacity:1;} 
+#plugin-title {padding:48px 0 0 128px; height:80px; background:url(date.png) no-repeat;}
+#plugin-title span {font-size:12px; font-variant:small-caps; font-family:Verdana, Geneva, sans-serif;}
+a.pluginhelp {text-decoration:none; color:#464646;}
+
+h2#plugin-title {float:left;}
+h3, h4 {clear:both;}
+h4.SE_settings {text-align:right; width:630px; margin-bottom:0; color:#21759B; cursor:pointer;}
+.donate {padding-top:25px;}
+.explanation {display:block; font-size:10px; margin-left:19px;}
+
+.se_entry_start, .se_entry_end, .se_entry_title, .se_entry_description, .se_entry_label, .se_entry_url, .se_entry_loc, .se_entry_loc_url { text-align:left;}
+.se_entry_description {vertical-align:top;}
+.labelnote {color:#999; font-size:11px;}
+
+
+a.eventlinks {font-weight:bold; text-decoration:none;}
+input.eventedit, input.eventdelete {cursor:pointer;}
+.eventlabel {color:#F90; font-weight:bold; cursor:help;}
+.eventtitle {text-align:left; font: italic normal normal 20px Georgia, Times,serif;}
+.eventstart, .eventend {font-weight:bold;}
+
+#long_len {border:none; background:none; text-align:right;}
+
+#se_top_buttons {clear:both; border-bottom:1px solid #CCC; height:69px;}
+#se_top_buttons button {display:block; width:200px; height:70px; border:1px solid #CCC; border-bottom-color:#ccc; background:#f5f5f5; float:left; margin-right:10px; font-size:14px; cursor:pointer;}
+#se_top_buttons button.se-myevents {border-bottom-color:#f9f9f9; background:#f9f9f9;}
+
+.iconsprite {display:inline; float:left; margin-right:5px; background-image:url(iconssprite.png); background-repeat:no-repeat; width:24px; height:21px;}
+.editicon {background-position:-1px 0px;}
+.editicon:hover {background-position:-1px -26px;}
+.binicon {background-position:-27px 0px;}
+.binicon:hover {background-position:-27px -26px;}
+.labelicon {background-position:-53px -29px;}
+.nolabelicon {background-position:-53px -3px;}
+.locationicon {background-position:-79px -29px;}
+.nolocationicon {background-position:-79px -3px;}
+.linkicon {background-position:-105px -29px;}
+.nolinkicon {background-position:-105px -3px;}
+
+.editicon, .binicon {height:26px; border:none; background-color:transparent; cursor:pointer; text-indent:-9999px; border-color: transparent !important;}

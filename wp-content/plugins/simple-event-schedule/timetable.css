@@ -1,0 +1,54 @@
+
+@charset "utf-8";
+/* CSS Document */
+#timetable{
+	width: 100%;
+	text-align:center;
+}
+#timetable th{
+	background: #CCC;
+}
+
+#timetable .today{
+	background-color: #FFC;
+}
+
+#timetable .today:hover{
+}
+
+#timetable .past_event{
+	color:#CCC;
+}
+
+#timetable .past_event:hover{
+	color:#000;
+}
+
+#timetable .future_event{
+}
+
+#icon-edit_me{
+    background: url("img/faq_admin_icon.png") no-repeat scroll 0 0 transparent !important;
+	float: left;
+    height: 34px;
+    margin: 7px 8px 0 0;
+    width: 36px;
+
+}
+#title
+{
+	color:#BBBBBB;
+}
+#checkcat
+{
+padding-right:3px;
+}
+#submitpost
+{
+	margin:0 152px 0 0;
+}
+#publish
+{
+	font-weight: bold;
+    padding: 0 31px;
+}

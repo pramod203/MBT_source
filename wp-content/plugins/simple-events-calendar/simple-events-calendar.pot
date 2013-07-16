@@ -1,0 +1,241 @@
+# Copyright (C) 2010 Simple Events Calendar
+# This file is distributed under the same license as the Simple Events Calendar package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Events Calendar 1.2.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/simple-events-calendar\n"
+"POT-Creation-Date: 2011-06-27 08:53:08+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: simple-events-calendar.php:36
+msgid "%a %B %#d"
+msgstr ""
+
+#: simple-events-calendar.php:38
+msgid "%a %B %e"
+msgstr ""
+
+#: simple-events-calendar.php:42
+msgid "%l:%M %p"
+msgstr ""
+
+#: simple-events-calendar.php:44
+msgid "%H:%M"
+msgstr ""
+
+#: simple-events-calendar.php:138
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: simple-events-calendar.php:160
+msgid "Unfortunately something went wrong..."
+msgstr ""
+
+#: simple-events-calendar.php:161
+msgid "The event was succesfully added!"
+msgstr ""
+
+#: simple-events-calendar.php:164
+msgid "C'mon, at least give me a title!"
+msgstr ""
+
+#: simple-events-calendar.php:187
+msgid "The event was succesfully updated!"
+msgstr ""
+
+#: simple-events-calendar.php:191
+msgid ""
+" by <a class=\"pluginhelp\" href=\"http://www.studiostacks.com/plugins/"
+"simple-events-calendar\" rel=\"help\">studio stacks</a>"
+msgstr ""
+
+#: simple-events-calendar.php:203
+msgid "Advanced settings"
+msgstr ""
+
+#: simple-events-calendar.php:223
+msgid "Change time to the 12 hour clock notation."
+msgstr ""
+
+#: simple-events-calendar.php:226
+msgid "Check this box to use your own CSS styling."
+msgstr ""
+
+#: simple-events-calendar.php:227
+msgid ""
+"Store your styling in a CSS file called <strong>simple-events-calendar.css</"
+"strong> in your theme's folder."
+msgstr ""
+
+#: simple-events-calendar.php:229
+msgid "Select your timezone: "
+msgstr ""
+
+#: simple-events-calendar.php:265
+msgid "How to open the event links?"
+msgstr ""
+
+#: simple-events-calendar.php:267
+msgid "Open both links in a new window"
+msgstr ""
+
+#: simple-events-calendar.php:268
+msgid "Open only the Location link in a new window"
+msgstr ""
+
+#: simple-events-calendar.php:269
+msgid "Open only the More Information link in a new window"
+msgstr ""
+
+#: simple-events-calendar.php:270
+msgid "Open both links in the same window"
+msgstr ""
+
+#: simple-events-calendar.php:273
+msgid "Who can manage events?"
+msgstr ""
+
+#: simple-events-calendar.php:284
+msgid "Disable Twitter"
+msgstr ""
+
+#: simple-events-calendar.php:285
+msgid ""
+"By disabling Twitter, the JavaScript of the Twitter API will not be loaded "
+"for this plugin."
+msgstr ""
+
+#: simple-events-calendar.php:288
+msgid "Update settings"
+msgstr ""
+
+#: simple-events-calendar.php:301
+msgid "Edit event:"
+msgstr ""
+
+#: simple-events-calendar.php:318 simple-events-calendar.php:489
+msgid "Start date:"
+msgstr ""
+
+#: simple-events-calendar.php:344
+msgid "Start time:"
+msgstr ""
+
+#: simple-events-calendar.php:362 simple-events-calendar.php:533
+msgid "End date:"
+msgstr ""
+
+#: simple-events-calendar.php:388
+msgid "End time:"
+msgstr ""
+
+#: simple-events-calendar.php:407 simple-events-calendar.php:579
+msgid "Title:"
+msgstr ""
+
+#: simple-events-calendar.php:413 simple-events-calendar.php:585
+msgid "Description:"
+msgstr ""
+
+#: simple-events-calendar.php:425 simple-events-calendar.php:596
+msgid "Label:"
+msgstr ""
+
+#: simple-events-calendar.php:428 simple-events-calendar.php:599
+msgid "Max. 10 characters. All spaces are removed when stored."
+msgstr ""
+
+#: simple-events-calendar.php:432 simple-events-calendar.php:603
+msgid "Event URL:"
+msgstr ""
+
+#: simple-events-calendar.php:438 simple-events-calendar.php:609
+#: simple-events-calendar.php:670
+msgid "Location:"
+msgstr ""
+
+#: simple-events-calendar.php:444 simple-events-calendar.php:615
+msgid "Location URL:"
+msgstr ""
+
+#: simple-events-calendar.php:455
+msgid "Update event"
+msgstr ""
+
+#: simple-events-calendar.php:465
+msgid "Add new event:"
+msgstr ""
+
+#: simple-events-calendar.php:515 simple-events-calendar.php:560
+msgid "Time:"
+msgstr ""
+
+#: simple-events-calendar.php:625
+msgid "Save event"
+msgstr ""
+
+#: simple-events-calendar.php:642
+msgid "Current events:"
+msgstr ""
+
+#: simple-events-calendar.php:657
+msgid "Edit"
+msgstr ""
+
+#: simple-events-calendar.php:657
+msgid "Remove"
+msgstr ""
+
+#: simple-events-calendar.php:662
+msgid "Label: "
+msgstr ""
+
+#: simple-events-calendar.php:662
+msgid ""
+"When including this label on your page when displaying events, only events "
+"with this label will be displayed"
+msgstr ""
+
+#: simple-events-calendar.php:740 simple-events-calendar.php:742
+msgid "Where:"
+msgstr ""
+
+#: simple-events-calendar.php:749
+msgid "More information..."
+msgstr ""
+
+#: simple-events-calendar.php:761 simple-events-calendar.php:762
+msgid "When:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Events Calendar"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.studiostacks.com/plugins/simple-events-calendar"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A simple plugin for adding upcomding events to your wordpress site with "
+"micoformats tags. Manage your campaigns from the admin panel and group your "
+"events with labels. Easily add your events to any page or post by using a "
+"simple shortcode. By default the shortcode will display all 'upcoming' "
+"events, but it is also possible to show only 'expired' events or both. By "
+"using labels you can decide which events group to display. By default all "
+"groups are showed."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jerry Rietveld"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.studiostacks.com"
+msgstr ""
